@@ -39,4 +39,4 @@ Usuário: ADM
 Senha: 12345
 
 ## Créditos
-A ideia desse projeto foi retirado no conteúdo disponível em: [Link do Site](https://www.sourcecodester.com/cc/17000/telecom-billing-management-system-c-source-code.html).
+A ideia desse projeto foi retirado no conteúdo disponível em: [SourceCodester](https://www.sourcecodester.com/cc/17000/telecom-billing-management-system-c-source-code.html).
